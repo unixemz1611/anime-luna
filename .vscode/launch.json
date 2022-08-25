@@ -787,5 +787,7 @@
           "foreground": "#B28570"
         }
       }
+    ],
+    "configurations": [
     ]
 }
