@@ -1,0 +1,21 @@
+{
+  "name": "anime-luna",
+  "displayName": "Anime-Luna",
+  "description": "AnimeLuna's Scheme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "AnimaLunaScheme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/AnimaLunaScheme-color-theme.json"
+      }
+    ]
+  }
+}
